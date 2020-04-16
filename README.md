@@ -11,10 +11,20 @@ No funciona en Wayland.
 * xcalib
 * bash
 
+```
+sudo apt install xcalib
+```
+
+
 ## Funcionamiento
 * Descarga el script: wget https://raw.githubusercontent.com/victorhck/stargazing/master/stargazing
 * Dale permisos de ejecución: chmod +x stargazing
 * Ejecuta el siguiente comando para ver las opciones: ./stargazing *
+
+
+```
+bash stargazing on
+```
 
 ### Más información
 * https://opensource.com/article/20/4/linux-astronomy
